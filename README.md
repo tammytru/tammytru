@@ -3,7 +3,7 @@
 </p>
 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=transparent)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
 <!--
 **tammytru/tammytru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
