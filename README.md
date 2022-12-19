@@ -3,6 +3,10 @@
 </p>
 
 
+## Programming Languages
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
+
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
 <!--
