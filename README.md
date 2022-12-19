@@ -2,24 +2,33 @@
   <img src="https://raw.githubusercontent.com/tammytru/tammytru/main/assets/github_banner.gif" alt="Hey! 👋 I'm Tammy" width="100%" height="auto">
 </p>
 
-
-## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/>
-
+## :raising_hand_woman: About Me
+I am currently working on...
+- my personal website
+- 
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
-<!--
-**tammytru/tammytru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :link: Links
+<!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
+<p align="center">
+  <a href=""><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
+  <a href="mailto:tammytru000@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/tammytru"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+</p>
 
-Here are some ideas to get you started:
+## :memo: Programming Languages
+<!-- Thanks to https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md for the images -->
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>  
+<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/>  
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## :desktop_computer: Technologies / Frameworks
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>  
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='33'/>  
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='33'/>  
+
