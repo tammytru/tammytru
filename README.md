@@ -8,9 +8,10 @@ I am currently working on...
 - 
 
 <br/>
+![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&hide_border=true&theme=nord)
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
-------
+
 ## :link: Links
 <!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
 <p align="center">
