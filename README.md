@@ -3,10 +3,13 @@
 </p>
 
 ## :raising_hand_woman: About Me
-My name is Tammy Truong. I am studying Computer Science and Business Administration at the Univeristy of Southern California. 
+Hey! My name is Tammy Truong. I'm currently studying Computer Science and Business Administration at the Univeristy of Southern California. 
 I am interested in full-stack web development and software engineering. To learn more about me and my projects, refer to the repos and links below.
 
+<br></br>
+![tammytru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
+<br></br>
 ## :link: Links
 <!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
 <p align="center">
@@ -33,8 +36,4 @@ I am interested in full-stack web development and software engineering. To learn
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='75'/> 
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='80'/>  
 </p>
- 
-
-<br></br>
-![tammytru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
