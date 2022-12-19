@@ -7,10 +7,10 @@ I am currently working on...
 - my personal website
 - 
 
-<div align="right">
-  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
-</div>
+<br/>
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
+------
 ## :link: Links
 <!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
 <p align="center">
