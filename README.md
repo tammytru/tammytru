@@ -8,7 +8,7 @@ I am interested in full-stack web development and software engineering. To learn
 
 ![tammytru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
-<br></br>
+
 ## :link: Links
 <!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
 <p align="center">
@@ -16,6 +16,7 @@ I am interested in full-stack web development and software engineering. To learn
   <a href="mailto:tammytru000@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/tammytru" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
+
 
 ## :memo: Programming Languages
 <!-- Thanks to https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md for the images -->
@@ -29,10 +30,11 @@ I am interested in full-stack web development and software engineering. To learn
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='70'/>  
 </p>
 
+
 ## :desktop_computer: Technologies / Frameworks
+<!-- Thanks to https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md for the images -->
 <p align="center">
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='70'/>  
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='75'/> 
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='80'/>  
 </p>
-
