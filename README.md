@@ -35,7 +35,7 @@ I am currently working on...
 <p align="center">
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='70'/>  
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='75'/>  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='75'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='78'/>  
 </p>
  
 
