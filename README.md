@@ -6,7 +6,6 @@
 Hey! My name is Tammy Truong. I'm currently studying Computer Science and Business Administration at the Univeristy of Southern California. 
 I am interested in full-stack web development and software engineering. To learn more about me and my projects, refer to the repos and links below.
 
-<br></br>
 ![tammytru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
 <br></br>
