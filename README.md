@@ -22,20 +22,20 @@ I am currently working on...
 ## :memo: Programming Languages
 <!-- Thanks to https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md for the images -->
 <p align="center">
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='50'/>
-  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='50'/> 
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='50'/>  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='50'/>  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='50'/>  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='50'/>  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='50'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='70'/>  
+  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='70'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='70'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='70'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='70'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='70'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='70'/>  
 </p>
 
 ## :desktop_computer: Technologies / Frameworks
 <p align="center">
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='50'/>  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='50'/>  
-  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='50'/> 
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='70'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' width='75'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='75'/>  
 </p>
  
 
