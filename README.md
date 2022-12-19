@@ -7,8 +7,8 @@ I am currently working on...
 - my personal website
 - 
 
-![Riderman's github stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&hide_border=true&theme=nord)  
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
+
+![tammytru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
 
 
 ## :link: Links
