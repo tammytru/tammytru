@@ -7,7 +7,9 @@ I am currently working on...
 - my personal website
 - 
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
+<div align="right">
+  ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
+</div>
 
 ## :link: Links
 <!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
@@ -19,13 +21,15 @@ I am currently working on...
 
 ## :memo: Programming Languages
 <!-- Thanks to https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md for the images -->
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  
+<p align="center">
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/>
+  <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> 
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/>  
+  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/>  
+</p>
 
 ## :desktop_computer: Technologies / Frameworks
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='30'/>  
