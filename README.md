@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/tammytru/tammytru/main/assets/github_banner.gif" alt="Hey! 👋 I'm Tammy" width="100%" height="auto">
 </p>
 
-## :raising_hand: About Me
+## :raising_hand_woman: About Me
 My name is Tammy Truong. I am studying Computer Science and Business Administration at the Univeristy of Southern California. 
 I am interested in full-stack web development and software engineering. To learn more about me and my projects, refer to the repos and links below.
 
