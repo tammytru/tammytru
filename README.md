@@ -2,6 +2,11 @@
   <img src="https://raw.githubusercontent.com/tammytru/tammytru/main/assets/github_banner.gif" alt="Hey! 👋 I'm Tammy" width="100%" height="auto">
 </p>
 
+## :raising_hand: About Me
+My name is Tammy Truong. I am studying Computer Science and Business Administration at the Univeristy of Southern California. 
+I am interested in full-stack web development and software engineering. To learn more about me and my projects, refer to the repos and links below.
+
+
 ## :link: Links
 <!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
 <p align="center">
@@ -29,9 +34,6 @@
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/react.svg' width='80'/>  
 </p>
  
-## :pencil2: Current Projects
-- my personal website
-
 
 <br></br>
 ![tammytru's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tammytru&show_icons=true&theme=nord)
