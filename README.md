@@ -39,6 +39,8 @@ I am interested in full-stack web development and software engineering. To learn
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tammytru&theme=nord&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 <!-- Thanks to https://github.com/MarikIshtar007/MarikIshtar007/blob/master/README.md for the images 
 <p align="center">
   <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='70'/>  
@@ -51,10 +53,10 @@ I am interested in full-stack web development and software engineering. To learn
 </p>
 -->
 
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tammytru&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=tammytru&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tammytru&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=tammytru&theme=nord&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=tammytru&theme=nord&hide_border=false)<br/>
 
 
 
