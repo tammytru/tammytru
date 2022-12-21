@@ -9,7 +9,7 @@ I am interested in full-stack web development and software engineering. To learn
 ## :link: Links
 <!-- Thanks to https://github.com/matyo91/matyo91/blob/main/README.md -->
 <p align="center">
-  <a href="" target="_blank"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
+  <a href="https://tammytru.github.io/" target="_blank"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="website"/></a>
   <a href="mailto:tammytru000@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/tammytru" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
 </p>
